@@ -1,0 +1,4 @@
+
+https://www.positronx.io/how-to-install-react-js-in-laravel-with-bootstrap/
+
+https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/
